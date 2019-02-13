@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NoteTaking</string>
+    <string name="name">Diego De La Torre</string>
+    <string name="schoolId">5510</string>
+    <string name="button">Take Note</string>
+    <string name="defaultText">Take a Note</string>
+    <string name="saveButton">Save</string>
+    <string name="cancelButton">Cancel</string>
+</resources>
